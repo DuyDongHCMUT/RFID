@@ -1,10 +1,3 @@
-/*
- * RFID.h
- *
- * Created: 7/31/2018 12:05:17 AM
- *  Author: Xiu
- */ 
-
 
 #ifndef RFID_H_
 #define RFID_H_
